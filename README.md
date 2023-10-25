@@ -1,5 +1,5 @@
 # Frogie-Robotics
-**Team Members**
+**Team Members:**
 
 * Builder - Jake Simmons
 
