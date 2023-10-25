@@ -9,4 +9,8 @@
 To create a bot that is
 - Maneuverable
 - Easy to drive
-- Versatile 
+- Versatile
+
+# Features
+- Settings menu to adjust controller sensitivity
+- Holonomic drive for extra maneuverability
