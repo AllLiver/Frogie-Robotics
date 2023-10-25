@@ -10,7 +10,7 @@
 * Documenter - Ariyan Islam
 
 ## Objective
-To create a bot that is
+Our objective is to create a bot that is
 - Maneuverable
 - Easy to drive
 - Versatile
