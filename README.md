@@ -1,5 +1,5 @@
 # Frogie-Robotics
-**Team Members:**
+### Team Members:
 
 * Builder - Jake Simmons
 
@@ -15,7 +15,7 @@ To create a bot that is
 - Easy to drive
 - Versatile
 
-# Features
+## Features
 - Settings menu to adjust controller sensitivity
 - Holonomic drive for extra maneuverability
 
